@@ -4,5 +4,7 @@ A realtime chat application. Log into a room and talk with the other users part 
 
 <b> Used technologies: React, React Hooks, Socket.io, Node.js </b>
 
+[Deployed on Netlify - Check it out](https://hi-lets-chat.netlify.app/)
+
 ![](react-chat.gif)
 
